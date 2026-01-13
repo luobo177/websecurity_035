@@ -11,7 +11,7 @@
 - 开源许可证的选择与使用
 - 分支创建、合并与冲突解决
 - Issue 讨论、Star、Watch 等协作功能
-- - 在 main 分支中独立修改 README 内容
+- - 在分支 feature-readme 中对 README 进行修改
 
 
 ## 使用说明
